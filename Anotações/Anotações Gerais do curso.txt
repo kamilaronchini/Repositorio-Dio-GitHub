@@ -1,0 +1,5 @@
+Comando 'cd' + nome da pasta ou caminho até a pasta, faz com que o prompt abra a pasta em que deseja trabalhar.
+Obs.: Caso o nome da pasta tiver um nome não traduzível como: Usuário = Users, e com espaço, como o meu que é : Kamila Ronchini
+para o prompt entender que esta é uma pasta que você deseja abrir, digite o nome da pasta dentro de aspas simples como: 
+'Kamila Ronchini'. Exemplo utilizado para gerar um SSH para GitHub.
+
